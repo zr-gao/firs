@@ -17,7 +17,7 @@ cargo = Cargo(
     items_of_cargo="string(STR_CARGO_UNIT_ALCOHOL)",
     penalty_lowerbound="9",
     single_penalty_length="36",
-    price_factor=166,
+    price_factor=0,
     capacity_multiplier="1",
     icon_indices=(7, 0),
 )

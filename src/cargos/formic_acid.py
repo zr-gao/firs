@@ -17,7 +17,7 @@ cargo = Cargo(
     items_of_cargo="string(STR_CARGO_UNIT_FORMIC_ACID)",
     penalty_lowerbound="30",
     single_penalty_length="255",
-    price_factor=109,
+    price_factor=0,
     capacity_multiplier="1",
     icon_indices=(4, 4),
 )

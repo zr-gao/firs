@@ -17,7 +17,7 @@ cargo = Cargo(
     items_of_cargo="string(STR_CARGO_UNIT_CASSAVA)",
     penalty_lowerbound="4",
     single_penalty_length="40",
-    price_factor=105,
+    price_factor=0,
     capacity_multiplier="1",
     icon_indices=(11, 2),
 )

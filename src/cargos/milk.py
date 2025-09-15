@@ -18,6 +18,6 @@ cargo = Cargo(
     penalty_lowerbound="0",
     single_penalty_length="16",
     capacity_multiplier="1",
-    price_factor=131,
+    price_factor=0,
     icon_indices=(13, 0),
 )
