@@ -1,0 +1,12 @@
+#
+# Note to self: Add new strings to the end of the file or break save game compatibility
+#
+
+STR_BANK_TRANSFER_NEWS  :{CURRENCY_LONG} has been transfered to your account{}{CURRENCY_LONG} due to cargo delivery{}{CURRENCY_LONG} due to reversing default OpenTTD income
+
+
+STR_IND_I1     :{STRING2}
+STR_IND_I2     :{STRING2}{}{STRING2}
+STR_IND_I3     :{STRING2}{}{STRING2}{}{STRING2}
+
+STR_CARGO_PRICE :{BLACK}Paying {WHITE}{NUM} {BLACK}for {LTBLUE}{RAW_STRING}
